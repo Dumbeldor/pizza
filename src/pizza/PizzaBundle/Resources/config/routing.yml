@@ -1,6 +1,0 @@
-pizza_pizza_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: pizzaPizzaBundle:Default:index }
-hello_the_world:
-    path:    /hello-world
-    default: { _controller: pizzaPizzaBundle:Advert:index }

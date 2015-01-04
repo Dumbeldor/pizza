@@ -1,4 +1,0 @@
-pizza_pizza:
-    resource: "@pizzaPizzaBundle/Resources/config/routing.yml"
-    prefix:   /
-
