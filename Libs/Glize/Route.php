@@ -1,5 +1,5 @@
 <?php
-namespace Libs;
+namespace Glize;
 
 class Route
 {

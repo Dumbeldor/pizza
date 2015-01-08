@@ -1,5 +1,5 @@
 <?php
-namespace Library;
+namespace Glize;
 
 class Router
 {
